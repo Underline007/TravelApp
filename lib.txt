@@ -1,0 +1,35 @@
+--- back end----
+
+npm init -s
+npm i express
+npm i colors
+npm i nodemon
+npm i dotenv morgan
+npm i mongoose
+npm i bcrypt
+npm i jsonwebtoken
+
+npm i slugify
+
+npm i express-formidable
+
+npm i braintree
+
+
+
+-----------front end ------------
+npx create-react-app client
+npm i react-router-dom
+npm i react-icons
+npm i react-helmet
+npm i axios react-toastify  
+npm install react-hot-toast
+npm i -g concurrently
+
+npm install antd
+
+add proxy to connect backend
+
+npm i braintree-web-drop-in-react
+
+npm i moment
